@@ -71,6 +71,4 @@ Contains files required to establish Oracle Database connectivity using Python.
 
 
 
-Contributions, suggestions, and improvements are welcome.
 
-If you find this repository useful, consider giving it a ⭐ on GitHub.
